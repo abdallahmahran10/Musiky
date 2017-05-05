@@ -1,9 +1,11 @@
 /**
  * Splash activity, this should be the app first activity to run
  */
-package com.mahran.musiky;
+package com.mahran.musiky.activities;
 
 import android.os.Bundle;
+
+import com.mahran.musiky.R;
 
 /**
  * @author Abdallah
@@ -11,7 +13,7 @@ import android.os.Bundle;
  */
 public class SplashActivity extends BaseActivity {
 	/* (non-Javadoc)
-	 * @see com.mahran.musiky.BaseActivity#onCreate(android.os.Bundle)
+	 * @see com.mahran.musiky.activities.BaseActivity#onCreate(android.os.Bundle)
 	 */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +22,7 @@ public class SplashActivity extends BaseActivity {
 	}
 
 	/* (non-Javadoc)
-	 * @see com.mahran.musiky.BaseActivity#initActivity()
+	 * @see com.mahran.musiky.activities.BaseActivity#initActivity()
 	 */
 	@Override
 	protected void initActivity() {

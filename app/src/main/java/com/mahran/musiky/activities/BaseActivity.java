@@ -1,7 +1,7 @@
 /**
  * Provide similar functionality to all activities
  */
-package com.mahran.musiky;
+package com.mahran.musiky.activities;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;

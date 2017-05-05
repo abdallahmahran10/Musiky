@@ -24,6 +24,7 @@ public class UsersPool {
 	{
 		users.put(user.userId, user);
 	}
+
 	/**
 	 * Get user by id 
 	 * @param userId user id 

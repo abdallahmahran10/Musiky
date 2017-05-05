@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.mahran.musiky.SplashActivity"
+            android:name="com.mahran.musiky.activities.SplashActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize" >
             <intent-filter>
